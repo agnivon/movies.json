@@ -1,0 +1,23 @@
+{
+  "name": "movies-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnivon/movies.json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnivon/movies.json/issues"
+  },
+  "homepage": "https://github.com/agnivon/movies.json#readme",
+  "dependencies": {
+    "random": "^3.0.6"
+  }
+}
